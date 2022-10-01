@@ -12,11 +12,14 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 
 const posts = json.posts;
-console.log(posts);
 
 app.get('/', (req, res) => res.render('home', { posts }));
 app.get('/posts/:handle', (req, res) => {
-  res.render(`posts/${req.params.handle}`);
+  const post = posts.filter((e) => e.handle == req.params.handle);
+  console.log('handle', post);
+  res.render(`posts/post`, {
+    post: post[0],
+  });
 });
 
 app.listen(app.get('port'), function () {

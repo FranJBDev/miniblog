@@ -2,18 +2,21 @@
   "posts": [
     {
       "handle": "el-blog-mas-rapido",
-      "titulo": "El blog mas rapido",
-      "description": "En este post te muestro como hacer tu blog rapido"
+      "title": "El blog mas rapido",
+      "description": "En este post te muestro como hacer tu blog rapido",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "handle": "seo-para-tu-blog",
-      "titulo": "SEO de tu blog",
-      "description": "En este post te muestro como hacer el mejor SEO"
+      "title": "SEO de tu blog",
+      "description": "En este post te muestro como hacer el mejor SEO",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "handle": "analiticas-para-tu-blog",
-      "titulo": "Analiticas para tu blog",
-      "description": "En este post te muestro como trackear lo que tu audiencia lee"
+      "title": "Analiticas para tu blog",
+      "description": "En este post te muestro como trackear lo que tu audiencia lee",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ]
 }
